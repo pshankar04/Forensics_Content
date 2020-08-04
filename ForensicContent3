@@ -1,0 +1,34 @@
+http://archive.is/3vOwn
+
+http://archive.md/https://ln.sync.com/dl/2be440a30/ebu7jxqc-9dbt3jgq-8mfz6xre-dkjmt3jz
+
+https://twitter.com/cjcmichel/status/1059827233458741253
+https://twitter.com/josh_emerson/status/1060160355022921728
+
+
+curl --silent http://memgator.cs.odu.edu/timemap/link/https://USAIRA.ru  | grep datetime | awk '{print $1}' | awk -v FS=/ '{print $3}' | sort | uniq -c
+
+
+
+curl --silent http://memgator.cs.odu.edu/timemap/link/https://USAIRA.ru 
+
+
+https://twitter.com/William02246024
+
+
+https://www.thedailybeast.com/russia-recruited-youtubers-to-bash-racist-btch-hillary-clinton-over-rap-beats?ref=scroll
+
+https://thinkprogress.org/usaira-russian-trolling-ahead-of-the-midterm-elections-is-a-mixture-of-the-weird-and-the-pathetic-c64b0d120ae5/
+
+https://www.theatlantic.com/politics/archive/2018/02/rosenstein-mueller-indictment-russia/553601/
+
+
+
+curl --silent http://memgator.cs.odu.edu/timemap/link/http://americanprides.com/2017/08/24/wikileaks-massive-exposure-here-are-6-republicans-who-took-bribes-from-clinton-to-destroy-trump/ | grep datetime | awk '{print $1}' | awk -v FS=/ '{print $3}' | sort | uniq -c
+
+
+
+curl --silent http://memgator.cs.odu.edu/timemap/link/https://twitter.com/kanyewest| grep datetime | awk '{print $1}' | awk -v FS=/ '{print $3}' | sort | uniq -c
+
+
+curl --silent http://memgator.cs.odu.edu/timemap/link/https://www.nytimes.com/2019/05/29/us/politics/mueller-special-counsel.html | grep datetime | awk '{print $1}' | awk -v FS=/ '{print $3}' | sort | uniq -c
